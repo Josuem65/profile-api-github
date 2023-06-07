@@ -23,5 +23,3 @@ export default function Repositories() {
 {/* <a>Repository Name 1</a>
 <button>Star</button>
 <span>Last updated on February 17</span> */}
-
-//  Add a time stamp for 'last updated'
